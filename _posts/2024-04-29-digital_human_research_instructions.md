@@ -17,8 +17,8 @@ Note that although the consent form mentioned Strava, we do not need it at all. 
 
 Once you have completed signing the forms, you can start testing. The tasks are simple:
 1.	Complete the [pre-test survey](https://forms.gle/W8H7iQWk8W1c4wwi6).
-2.	Download [Testflight](https://apps.apple.com/us/app/testflight/id899247664) from Appstore.
-3.	Download the actual app that you will test, [Jack](https://testflight.apple.com/join/15NWcw85)
+2.	Download Testflight from Appstore. [Click to download](https://apps.apple.com/us/app/testflight/id899247664)
+3.	Download the actual app 'Jack' that you will test. [Click to download](https://testflight.apple.com/join/15NWcw85)
 4.	Use the app for 7 days, in whichever way you want. Jack will send a notification everyday at 7pm, reminding you to have a chat with him. 
 5.	After 7 days, fill in the post-test survey. I will contact you on day 7 and send you the link.
 
