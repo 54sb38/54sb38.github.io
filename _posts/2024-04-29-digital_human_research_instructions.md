@@ -11,7 +11,7 @@ Before you start, you should have already consented to participating in this stu
 2. Declared that you are capable of carrying out regular physical activities by signing the [health screening table](https://github.com/54sb38/54sb38.github.io/blob/master/assets/Adult-Pre-Screening-Tool-2021-3.pdf).
 3. Signing the [consent form](https://github.com/54sb38/54sb38.github.io/blob/master/assets/Consent%20form%20-%20Jingbo.pdf).
 
-Please send the signed documents to jingbo.ma@uq.net.au  
+Please send the signed documents (health screening table + consent form) to jingbo.ma@uq.net.au  
 
 Note that although the consent form mentioned Strava, we do not need it at all. There was a change of plan.
 
