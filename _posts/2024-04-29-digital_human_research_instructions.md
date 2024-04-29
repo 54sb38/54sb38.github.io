@@ -12,7 +12,6 @@ Before you start, you should have already consented to participating in this stu
 3. Signing the [consent form](https://github.com/54sb38/54sb38.github.io/blob/master/assets/Consent%20form%20-%20Jingbo.pdf).
 
 Please send the signed documents to jingbo.ma@uq.net.au  
-[Send Now!](mailto:jingbo.ma@uq.net.au)
 
 Note that although the consent form mentioned Strava, we do not need it at all. There was a change of plan.
 
