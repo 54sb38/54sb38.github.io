@@ -7,8 +7,13 @@ The purpose of this study is to discover how effective Jack, a (simulated) digit
 can motivate you to stick to your regular workout routine. 
 
 Before you start, you should have already consented to participating in this study by:
-1.	Signing the consent form (Consent form – Jingbo.pdf)
-2.	Declared that you are capable of carrying out regular physical activities by signing the health screening table (Adult-Pre-Screening-Tool-2021-3.pdf).
+1. Read the [participation information sheet](https://github.com/54sb38/54sb38.github.io/blob/master/assets/Participant%20Information%20Sheet%20-%20Jingbo%20Ma.pdf).
+2. Declared that you are capable of carrying out regular physical activities by signing the [health screening table](https://github.com/54sb38/54sb38.github.io/blob/master/assets/Adult-Pre-Screening-Tool-2021-3.pdf).
+3. Signing the [consent form](https://github.com/54sb38/54sb38.github.io/blob/master/assets/Consent%20form%20-%20Jingbo.pdf).
+
+Please send the signed documents to me by email. My email address is jingbo.ma@uq.net.au [Send Now!](mailto:jingbo.ma@uq.net.au)
+
+Note that although the consent form mentioned Strava, we do not need it at all. There was a change of plan.
 
 Once you have completed signing the forms, you can start testing. The tasks are simple:
 1.	Complete the [pre-test survey](https://forms.gle/W8H7iQWk8W1c4wwi6).
